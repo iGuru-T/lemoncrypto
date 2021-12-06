@@ -69,32 +69,40 @@ NFT Show Auction Marketplace | http://165.227.230.18/ | https://github.com/NFTSh
 NFFurries NFT Marketplace | https://nffurries.herokuapp.com/ | https://github.com/NFFurries |
 FLAT NFT Marketplace | https://flat-nft.netlify.app/ | https://github.com/flat-swap |
 
-## Decentralized Exchange Platform (Swap & Liquidity Only)
+## Decentralized Exchange Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
+Toshinori Inu Swap | https://hero-swap.com/#/swap | https://github.com/msa-swap |
+BabyCake Swap | https://swap.babycake.app | https://github.com/babycake-swap |
 ThogeCoin Swap | https://thogechain.com | https://github.com/thoge-swap |
 SushiManToken Swap | https://swap.sushimantoken.com/ | https://github.com/sushiman-swap/ |
 Paws Swap | https://pawswap.app | https://github.com/paws-swap |
 Bhakipound Swap | https://bhaktipound.org | https://github.com/bhaktipoundswap |
 
-## Defi Platform customized from Pancakeswap
+## Game Platform
 Project Name | Site Url | Github Organize
 :-------------------------:|:-------------------------:|:-------------------------:
-Sapphire Finance | https://sapphireswap.finance/ | https://github.com/sapphire-finance |
+BabyCake Lottery | https://lottery.babycake.app/ | https://github.com/babycake-swap |
+Birb Lottery | https://birbswap.finance/lottery | https://github.com/birb-swap |
+
+## Defi Platform on BSC
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
 Candy Swap | https://candyswap.one | https://github.com/candies-swap |
+Guitar Swap | https://guitarswap.exchange | https://github.com/guitar-swap |
+Birb Swap | https://birbswap.finance/ | https://github.com/birb-swap |
+Sapphire Finance | https://sapphireswap.finance/ | https://github.com/sapphire-finance |
 Labi Swap | https://labiswap.finance/ | https://github.com/labiswap |
+NftGlobal Finance | https://nftglobal.finance/ | https://github.com/nftglobal-finance |
 PrivacyWall Finance | https://privacycoin.privacywall.org/ | https://github.com/privacy-finance |
 BitBucks Swap | https://swap.bitbucks.finance | https://github.com/bbswap |
+Bioma Defi | https://defi.bioma.eco/ | https://github.com/bioma-defi |
 BullRun Finance | https://app.br.finance/ | https://github.com/bullrun-finance/ |
 Candy Swap | https://candyswapliquidity.io | https://github.com/Candy-Shop-Swap | 
 Porn Swap | https://porn-swap.com | https://github.com/porn-swap |
 Rain Swap | https://umbrellaswap.io | https://github.com/rainswap |
 BINO Swap | https://binodex.com/ | https://github.com/bino-swap/ |
 ZIZO Finance | https://zizo.finance/ | https://github.com/zizo-finance/ |
-
-## Defi Platform customized from Goosedefi
-Project Name | Site Url | Github Organize
-:-------------------------:|:-------------------------:|:-------------------------:
 WWF Swap | https://wwf.finance/ | https://github.com/wwfswap |
 WWE Swap | https://wwe.wwf.finance/ | https://github.com/wwe-finance |
 Flat Swap | https://flatswap.exchange/ | https://github.com/flat-swap/ |
@@ -116,6 +124,12 @@ Handy Man Swap | https://handyman.finance/ | https://github.com/handymanfinance/
 Dolomite Defi | https://dolomite-defi.finance/ | https://github.com/dolomitedefi |
 Gloc Swap | https://glocswap.io/ | https://github.com/glocswap/ |
 HadesPalace Finance | https://hadespalace.finance/ | https://github.com/hadespalace-finance |
+
+## Defi Platform on Fantom
+Project Name | Site Url | Github Organize
+:-------------------------:|:-------------------------:|:-------------------------:
+BakerGuild Finance | https://bakerguild.com/ | https://github.com/baker-finance |
+PrimeStake Finance | https://app.primestake.finance/ | https://github.com/primestake-finance |
 
 ## ICO Featured Projects
 Project Name | Site Url | Github Organize
