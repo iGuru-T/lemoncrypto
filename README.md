@@ -37,7 +37,6 @@ Crypto Heros And Villains | https://chavs.io/ | ETH |
 Endangered Animals | https://endangeredanimalsnft.io/ | SOLANA |
 Mutant Animals | https://mutantanimals.com/ | SOLANA |
 Crypto Comma Club | https://thecryptocommaclub.com/ | ETH | 
-Cheeky Chimp Club | https://cheekychimps.club/ | AVALANCHE |
 Couch Potatoes | https://couchpotatoestudios.art/ | ETH |
 Genie Quest | https://www.genie.quest/ | ETH |
 Chillin Chameleon | https://preciouspixels.art/ | ETH |
